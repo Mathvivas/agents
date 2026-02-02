@@ -1,0 +1,2 @@
+- First run document_loader.py
+- Then run main.py from the project root: python -m application.main
